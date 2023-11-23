@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionAppProducts": {
+      "commandName": "Project",
+      "commandLineArgs": "start --port 7010",
+      "launchBrowser": false
+    }
+  }
+}
