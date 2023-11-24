@@ -1,7 +1,7 @@
 # products
 FuncAppProducts is a solution for a Azure Function that exposes two HTTP API endpoints.
 
-1. HTTP endpoint that receives an JSON Product structure and savs in a Azure table storage named "products"
+1. HTTP endpoint that receives an JSON Product structure and saves this structure in a Azure table storage named "products"
    
 {
    "PartitionKey" : "Sweden", 
